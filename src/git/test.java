@@ -7,4 +7,5 @@ package git;
  */
 public class test {
   p
+  p
 }
