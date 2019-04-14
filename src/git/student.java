@@ -10,7 +10,8 @@ public class student {
 	private  String userId;
 	private String userName;
 	private String weight;
-	h
+	private String age;
+
 
 
 }
