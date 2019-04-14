@@ -6,5 +6,6 @@ package git;
  * @date  2019年4月14日 下午6:18:35 
  */
 public class student {
-
+  
+	private  String userId;
 }
