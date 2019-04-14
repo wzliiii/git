@@ -8,7 +8,8 @@ package git;
 public class student {
   
 	private  String userId;
-	private String userName; 
-	p
+	private String userName;
+	private String weight;
+
 
 }
